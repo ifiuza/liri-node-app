@@ -1,0 +1,150 @@
+**********EVENT INFO*********
+0
+Name of the Venue: Pianos
+Venue Location: New York
+Date of the Event: 2019-09-01T18:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Moon River Music Festival
+Venue Location: Chattanooga
+Date of the Event: 2019-09-07T19:00:22
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Pianos
+Venue Location: New York
+Date of the Event: 2019-09-01T18:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Moon River Music Festival
+Venue Location: Chattanooga
+Date of the Event: 2019-09-07T19:00:22
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Pianos
+Venue Location: New York
+Date of the Event: 2019-09-01T18:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Moon River Music Festival
+Venue Location: Chattanooga
+Date of the Event: 2019-09-07T19:00:22
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Raadi lennuväli
+Venue Location: Tartu
+Date of the Event: 2019-07-17T17:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Raadi lennuväli
+Venue Location: Tartu
+Date of the Event: 2019-07-18T18:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Luzhniki Stadium
+Venue Location: Moscow
+Date of the Event: 2019-07-21T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: National Stadion Bukarest
+Venue Location: Bucharest
+Date of the Event: 2019-08-14T16:30:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Ernst-Happel-Stadion
+Venue Location: Wien
+Date of the Event: 2019-08-16T18:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Letiště Letňany
+Venue Location: Prague
+Date of the Event: 2019-08-18T16:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: PGE Narodowy
+Venue Location: Warsaw
+Date of the Event: 2019-08-21T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Olympiastadion München
+Venue Location: Munchen
+Date of the Event: 2019-08-23T18:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Maimarktgelände
+Venue Location: Mannheim
+Date of the Event: 2019-08-25T18:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Chase Center
+Venue Location: San Francisco
+Date of the Event: 2019-09-06T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Chase Center
+Venue Location: San Francisco
+Date of the Event: 2019-09-08T20:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Optus Stadium
+Venue Location: Burswood
+Date of the Event: 2019-10-17T19:30:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Adelaide Oval
+Venue Location: North Adelaide
+Date of the Event: 2019-10-20T19:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Marvel Stadium
+Venue Location: Docklands
+Date of the Event: 2019-10-22T19:30:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Marvel Stadium
+Venue Location: Docklands
+Date of the Event: 2019-10-24T19:30:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: ANZ Stadium
+Venue Location: Sydney Olympic Park
+Date of the Event: 2019-10-26T19:30:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Queensland Sport And Athletics Centre (QSAC)
+Venue Location: Brisbane
+Date of the Event: 2019-10-29T19:30:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Mt Smart Stadium
+Venue Location: Auckland
+Date of the Event: 2019-10-31T19:30:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Mt Smart Stadium
+Venue Location: Auckland
+Date of the Event: 2019-11-02T19:30:00
+*****************************
