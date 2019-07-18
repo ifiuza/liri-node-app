@@ -148,3 +148,283 @@ Name of the Venue: Mt Smart Stadium
 Venue Location: Auckland
 Date of the Event: 2019-11-02T19:30:00
 *****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+3
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+4
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+5
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Do You Mean (with Ty Dolla $ign & bülow)
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: World War Joy
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+8
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+9
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+10
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+11
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+12
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+13
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+14
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+15
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+16
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+17
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+19
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+0
+song name: Los Indios
+preview song: https://p.scdn.co/mp3-preview/cd3124f41bbf57dce1b0416df39db83c4a4b6841?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Al Mismo Nivel
+artist(s): Los Pescadores Del Rio Conchos
+*****************************
+**********SONG INFO*********
+1
+song name: Indios y Vaqueros
+preview song: https://p.scdn.co/mp3-preview/74ebf73cbe18ff030505d315c3a75055cb443af7?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Indios y Vaqueros
+artist(s): Sinsinati
+*****************************
+**********SONG INFO*********
+2
+song name: Tu Geografía
+preview song: https://p.scdn.co/mp3-preview/0eb83e87a3ee7c14580f1a82d48b3cd40a981e6d?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Indios
+artist(s): Indios
+*****************************
+**********SONG INFO*********
+3
+song name: Zafra Negra
+preview song: https://p.scdn.co/mp3-preview/d424528cfad9262b25401a46e015184ccac3bd66?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: A la Mar
+artist(s): Vicente Garcia
+*****************************
+**********SONG INFO*********
+4
+song name: Índios
+preview song: null
+album: As Quatro Estações - Ao Vivo
+artist(s): Legião Urbana
+*****************************
+**********SONG INFO*********
+5
+song name: Maria Elena
+preview song: https://p.scdn.co/mp3-preview/2a581547aa3437e9a1100a49e0fbaf3ec17d335f?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Maria Elena
+artist(s): Los Indios Tabajaras
+*****************************
+**********SONG INFO*********
+6
+song name: El Pondito
+preview song: https://p.scdn.co/mp3-preview/72a36bc2879312b54e204fea3bb0c4d0c958f511?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Así Tocan Los Indios
+artist(s): Los Gaiteros de San Jacinto
+*****************************
+**********SONG INFO*********
+7
+song name: Índios
+preview song: null
+album: Mais Do Mesmo
+artist(s): Legião Urbana
+*****************************
+**********SONG INFO*********
+8
+song name: La Cueva de los Indios - Remix
+preview song: https://p.scdn.co/mp3-preview/237367f4eda7e9b8eff3067417fc4343c257c36d?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Desacatao
+artist(s): El Mayor Clasico
+*****************************
+**********SONG INFO*********
+9
+song name: Indios Y Vaqueros
+preview song: https://p.scdn.co/mp3-preview/b897271b399dd09afa294a5c305969e19f43955e?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: A Toda Banda
+artist(s): Los Plebeyos
+*****************************
+**********SONG INFO*********
+10
+song name: Índios
+preview song: null
+album: Dois
+artist(s): Legião Urbana
+*****************************
+**********SONG INFO*********
+11
+song name: Perfidia
+preview song: https://p.scdn.co/mp3-preview/d2219d59f88f1d79df384d525e1117a33fa68819?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Los Indios Tabajaras y los Panchos, Vol. 1
+artist(s): Los Panchos
+*****************************
+**********SONG INFO*********
+12
+song name: Ojos indios
+preview song: https://p.scdn.co/mp3-preview/96bf8972405f2b9aa80c1e6515cc0aa50b696231?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Los 50 vallenatos más recordados, dedicados, vendidos y sonados
+artist(s): Alfredo Gutierrez
+*****************************
+**********SONG INFO*********
+13
+song name: Ojos Indios
+preview song: https://p.scdn.co/mp3-preview/516e1b04e28802d2f7d90f336996b2ebfb8e51c2?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Los 30 Mejores
+artist(s): Alfredo Gutierrez
+*****************************
+**********SONG INFO*********
+14
+song name: Ya Pasó
+preview song: https://p.scdn.co/mp3-preview/ea61633fb49ec5af1ff60c1a37a0835d530cff57?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Indios
+artist(s): Indios
+*****************************
+**********SONG INFO*********
+15
+song name: Indios Tilcara
+preview song: https://p.scdn.co/mp3-preview/a6d8f1ec1d1ad8823b5bf72e7191c76f55845356?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Bienaventuranza
+artist(s): Chancha Via Circuito
+*****************************
+**********SONG INFO*********
+16
+song name: Always in My Heart
+preview song: https://p.scdn.co/mp3-preview/1b45ce2e76f212a01c7efe0a09d495a15f2ddf0f?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Always in My Heart
+artist(s): Los Indios Tabajaras
+*****************************
+**********SONG INFO*********
+17
+song name: Ya Lo Sé
+preview song: https://p.scdn.co/mp3-preview/b8b51a5180230898713bee9e16dc58b1e6398568?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Ya Lo Sé - Single
+artist(s): Indios
+*****************************
+**********SONG INFO*********
+18
+song name: Perdiendo la Cabeza
+preview song: https://p.scdn.co/mp3-preview/fa23aab5269b72370f1bcfedd9de1cfb1b344e27?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Perdiendo la Cabeza - Single
+artist(s): Indios
+*****************************
+**********SONG INFO*********
+19
+song name: Perdiendo la Cabeza
+preview song: https://p.scdn.co/mp3-preview/b81d6c9638e8f1ecb566afeb5e7927a170962664?cid=6ea8556fa5764aafa2602abaa0a38d05
+album: Besos en la Espalda
+artist(s): Indios
+*****************************
