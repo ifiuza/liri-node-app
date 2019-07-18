@@ -96,7 +96,23 @@ function showSongInfo(inputParameter) {
     );
 };
 
-//Function for movie info ..
+//Function for movie info .. OMDB
+
+function showMovieInfo(inputParameter){
+    if(inputParameter === undefined){
+        inputParameter = "Mr.Nobody"
+        console.log("----------------------");
+        fs.appendFileSync("log.txt", "-------------\n");
+        console.log("If you haven't watched 'Mr Nobody', then you should: http://www.imdb.com/title/tt0485947/");
+        fs.appendFileSync("log.txt","If you haven't watched 'Mr Nobody', then you should: http://www.imdb.com/title/tt0485947/" +"\n");
+        console.log("It's on  NetFlix!");
+        fs.appendFileSync("log.txt", "It's on  NetFlix!\n");
+
+    }
+
+}
+
+
 
 
 
