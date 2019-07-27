@@ -2,16 +2,21 @@
 
 Make it so liri.js can take in one of the following commands:
 
-
-
+<!-- 
 concert-this
 spotify-this-song
 movie-this
-do-what-it-says
+do-what-it-says -->
 
 Here are the screenshots for each command:
 
 <a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/BLNagEu.jpg" alt="Commercial Photography"></a>
+
+<a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/F2ot4Vu.jpg" alt="Commercial Photography"></a>
+
+<a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/eBdrG9T.jpg" alt="Commercial Photography"></a>
+
+<a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/xsX2ROm.jpg" alt="Commercial Photography"></a>
 
 
 What Each Command Should Do
