@@ -1,11 +1,4 @@
-Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
-Give a high-level overview of how the app is organized
-Give start-to-finish instructions on how to run the app
-Include screenshots, gifs or videos of the app functioning
-Contain a link to a deployed version of the app
-Clearly list the technologies used in the app
-State your role in the app development
---------------------------------------- check above ---
+
 
 Make it so liri.js can take in one of the following commands:
 
@@ -16,8 +9,9 @@ spotify-this-song
 movie-this
 do-what-it-says
 
-<a href="https://imgur.com/a/zLFQSuE"><img src="https://imgur.com/YvMKWE9" alt ="screenshot"></a>
+Here are the screenshots for each command:
 
+<a href="http://www.freeimagehosting.net/commercial-photography/"><img src="https://i.imgur.com/BLNagEu.jpg" alt="Commercial Photography"></a>
 
 
 What Each Command Should Do
