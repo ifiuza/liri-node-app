@@ -16,7 +16,7 @@ spotify-this-song
 movie-this
 do-what-it-says
 
-<a href="https://https://imgur.com/upload"><img src="https://imgur.com/a/zLFQSuE" alt ="screenshot"></a>
+<a href="https://imgur.com/a/zLFQSuE"><img src="https://imgur.com/a/zLFQSuE" alt ="screenshot"></a>
 
 
 
